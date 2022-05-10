@@ -24,11 +24,11 @@ After download, run ``` flutter --version ``` <br />
 
 Output examples on iOS Simulator: <br />
 <br />
-![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter_01.png)<br />
+![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_01.png)<br />
 <br />
-![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter_02.png)<br />
+![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_02.png)<br />
 <br />
-![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter_03.png)<br />
+![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_03.png)<br />
 <br />
 
 
