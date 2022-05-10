@@ -22,15 +22,15 @@ After download, run ``` flutter --version ``` <br />
 <br />
 ![alt text](https://github.com/breebrowder/holberton-flutter_intro/blob/main/flutter-v.png)
 
-Output examples on iOS Simulator: <br />
+## Output examples on iOS Simulator: <br />
 <br />
-## Sign In Screen
+### Sign In Screen
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_01.png)<br />
 <br />
-## Sign Up Screen
+### Sign Up Screen
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_02.png)<br />
 <br />
-## Forgot Password Screen(Language originated non English native)
+### Forgot Password Screen (Language originated non English native)
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_03.png)<br />
 <br />
 
