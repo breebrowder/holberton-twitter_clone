@@ -38,7 +38,7 @@ class FState extends State<ForgotPassword> {
             Navigator.pop(action),
           }
         ),
-        backgroundColor: Colors.grey,
+        backgroundColor: Colors.white,
       ),
       body: Center(
         child: SingleChildScrollView(
@@ -46,10 +46,7 @@ class FState extends State<ForgotPassword> {
             children: [
               Text(
                 'Forget Password',
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
+                style: TextStyle(fontWeight: FontWeight.bold,),),
               Container(
                 padding: const EdgeInsets.all(30),
                 child: Text(
@@ -62,6 +59,7 @@ class FState extends State<ForgotPassword> {
               CustomEntryField(
                 hint: 'Enter email',
                 controller: _emailController,
+                 isPassword: false,
               ),
               CustomFlatButton(
                 label: 'Submit',
