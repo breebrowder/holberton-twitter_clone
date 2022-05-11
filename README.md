@@ -37,6 +37,10 @@ After download, run ``` flutter --version ``` <br />
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_03.png)<br />
 <br />
 
+### Side Bar Menu
+![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_05.png)<br />
+<br />
+
 ### Home Screen
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_04.png)<br />
 <br />

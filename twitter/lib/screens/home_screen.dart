@@ -24,6 +24,7 @@ class HState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+       drawer: SideBarMenu(),
       appBar: AppBar(
         title: Text(
           'Home',
