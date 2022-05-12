@@ -33,11 +33,11 @@ After download, run ``` flutter --version ``` <br />
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_02.png)<br />
 <br />
 
-### Forgot Password Screen (Language originated non English native)
+### Forgot Password Screen
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_03.png)<br />
 <br />
 
-### Side Bar Menu
+### Side Bar Menu Screen
 ![alt text](https://github.com/breebrowder/holberton-twitter_clone/blob/main/flutter%20screenshot/flutter_05.png)<br />
 <br />
 
