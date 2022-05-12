@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:holberton-twitter_clone/widgets/entry_field.dart';
-import 'package:holberton-twitter_clone/widgets/flat_button.dart';
+import 'package:twitter/widgets/entry_field.dart';
+import 'package:twitter/widgets/flat_button.dart';
 
 class ForgotPassword extends StatefulWidget {
   const ForgotPassword({

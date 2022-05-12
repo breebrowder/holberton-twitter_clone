@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:holberton-twitter_clone/screens/home_screen.dart';
-import 'package:holberton-twitter_clone/widgets/entry_field.dart';
-import 'package:holberton-twitter_clone/widgets/flat_button.dart';
-import 'package:holberton-twitter_clone/screens/signup_screen.dart';
-import 'package:holberton-twitter_clone/screens/forgot_password_screen.dart';
+import 'package:twitter/screens/home_screen.dart';
+import 'package:twitter/widgets/entry_field.dart';
+import 'package:twitter/widgets/flat_button.dart';
+import 'package:twitter/screens/signup_screen.dart';
+import 'package:twitter/screens/forgot_password_screen.dart';
 
 
 class SignIn extends StatefulWidget {
