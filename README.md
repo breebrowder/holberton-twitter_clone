@@ -30,8 +30,6 @@ After download, run ``` flutter --version ``` <br />
 1. [Flutter Twitter Clone: static part 1](https://intranet.hbtn.io/projects/2849)
 2. [Flutter Twitter Clone: Static part 2](https://intranet.hbtn.io/projects/2849)
 
-* Note: Part 2 to be completed at a later date.
-
 
 ## Output examples on iOS Simulator: <br />
 <br />
