@@ -1,8 +1,8 @@
 # Create a Twitter Clone with Flutter using MacOS!
 
 ## Documentation
-[Link to Docs](https://docs.flutter.dev/get-started/install/macos)
-[Flutter Command Line Tool](https://docs.flutter.dev/reference/flutter-cli)
+1. [Link to Docs](https://docs.flutter.dev/get-started/install/macos)
+2. [Flutter Command Line Tool](https://docs.flutter.dev/reference/flutter-cli)
 
 ### What is Flutter?
 
