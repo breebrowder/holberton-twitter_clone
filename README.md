@@ -1,9 +1,11 @@
 # Create a Twitter Clone with Flutter using MacOS!
 
-## Project
+## Documentation
+[Link to Docs](https://docs.flutter.dev/get-started/install/macos)
 
-1. [Flutter Twitter Clone](https://intranet.hbtn.io/projects/2849)
+### What is Flutter?
 
+Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.
 
 #### Minimum System Requirements:
 <ol>
@@ -15,12 +17,21 @@
 </ol>
 
 
-## Flutter documentation
-[Link to Docs](https://docs.flutter.dev/get-started/install/macos)
-
 After download, run ``` flutter --version ``` <br />
 <br />
 ![alt text](https://github.com/breebrowder/holberton-flutter_intro/blob/main/flutter-v.png)
+
+### How to Run:
+
+``` flutter run ```
+
+## Project
+
+1. [Flutter Twitter Clone: static part 1](https://intranet.hbtn.io/projects/2849)
+2. [Flutter Twitter Clone: Static part 2](https://intranet.hbtn.io/projects/2849)
+
+* Note: Part 2 to be completed at a later date.
+
 
 ## Output examples on iOS Simulator: <br />
 <br />
