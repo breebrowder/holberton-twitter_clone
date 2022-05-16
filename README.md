@@ -2,6 +2,7 @@
 
 ## Documentation
 [Link to Docs](https://docs.flutter.dev/get-started/install/macos)
+[Flutter Command Line Tool](https://docs.flutter.dev/reference/flutter-cli)
 
 ### What is Flutter?
 
